@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample-WebApp", "Sample-WebApp\Sample-WebApp.csproj", "{2A1A6DC1-FA9F-45B3-8CA2-FFB3C8A6B131}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch-Job-ConsoleApp", "Batch-Job-ConsoleApp\Batch-Job-ConsoleApp.csproj", "{D93DBD4B-343A-4D6C-8EEA-006CEA7A4AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Batch-Job-ConsoleApp", "Batch-Job-ConsoleApp\Batch-Job-ConsoleApp.csproj", "{D93DBD4B-343A-4D6C-8EEA-006CEA7A4AB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2A1A6DC1-FA9F-45B3-8CA2-FFB3C8A6B131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A1A6DC1-FA9F-45B3-8CA2-FFB3C8A6B131}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A1A6DC1-FA9F-45B3-8CA2-FFB3C8A6B131}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A1A6DC1-FA9F-45B3-8CA2-FFB3C8A6B131}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D93DBD4B-343A-4D6C-8EEA-006CEA7A4AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D93DBD4B-343A-4D6C-8EEA-006CEA7A4AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93DBD4B-343A-4D6C-8EEA-006CEA7A4AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
